@@ -1,0 +1,872 @@
+{
+  "current": {
+    "color_text": "#0c7bbb",
+    "color_body_text": "#3d4246",
+    "color_sale_text": "#0c7bbb",
+    "color_button": "#0c7bbb",
+    "color_button_text": "#fff",
+    "color_small_button_text_border": "#3d4246",
+    "color_text_field_text": "#000",
+    "color_text_field_border": "#949494",
+    "color_text_field": "#ffffff",
+    "color_image_overlay_text": "#fff",
+    "color_image_overlay": "#3d4246",
+    "image_overlay_opacity": 40,
+    "color_borders": "#929293",
+    "color_body_bg": "#fff",
+    "page_handle_exclusions": "2022-deca,back-to-school-sale,deca-sign-up",
+    "type_header_font": "work_sans_n6",
+    "type_header_base_size": 26,
+    "type_base_font": "work_sans_n6",
+    "type_base_size": 16,
+    "type_bold_product_titles": false,
+    "share_image": "",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "social_twitter_link": "https:\/\/twitter.com\/frostyfruit1",
+    "social_facebook_link": "https:\/\/www.facebook.com\/frostyfruitslushy\/?ref=sgm",
+    "social_pinterest_link": "",
+    "social_instagram_link": "https:\/\/www.instagram.com\/FrostyFruitSlushy",
+    "social_tumblr_link": "",
+    "social_snapchat_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "favicon": "shopify:\/\/shop_images\/frostyhead.gif",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/FrostyFruitTransparent.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "large",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "align_logo": "left",
+          "logo": "shopify:\/\/shop_images\/FrostyFruitTransparent.png",
+          "logo_max_width": 130,
+          "main_linklist": "main-menu",
+          "message": true,
+          "home_page_only": false,
+          "message_text": "Click Here to Schedule a Free Fundraising Consult!",
+          "message_link": "shopify:\/\/pages\/frosty-fruit-fundraising-consultation",
+          "color_bg": "#0c7bbb",
+          "color_text": "#ffffff"
+        }
+      },
+      "slideshow": {
+        "type": "slideshow",
+        "blocks": {
+          "1596464817878": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Cherry-On-Top-Promotion.png",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "",
+              "slide_option": "slide",
+              "button_label": "",
+              "button_link": "https:\/\/frostyfruit.net\/discount\/CHERRYONTOP?redirect=\/collections\/slushy-flavors"
+            }
+          },
+          "89b03dd7-8036-4112-a447-a3995fb2a89a": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/shipfree8_a799e0ee-7f77-4c40-838e-6bd4bd40e5ed.png",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "",
+              "slide_option": "slide",
+              "button_label": "",
+              "button_link": "https:\/\/frostyfruit.net\/discount\/SHIPFREE8?redirect=\/collections\/slushy-flavors"
+            }
+          },
+          "4119444a-09b6-49a1-bce1-7910ec253974": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Test_slider-2.png",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "",
+              "slide_option": "slide",
+              "button_label": "",
+              "button_link": "shopify:\/\/collections\/slushy-flavors"
+            }
+          },
+          "1603121509888": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Shipfree12.png",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "",
+              "slide_option": "slide",
+              "button_label": "",
+              "button_link": "https:\/\/frostyfruit.net\/discount\/SHIPFREE12CASES?redirect=\/collections\/slushy-flavors"
+            }
+          },
+          "435a7718-c952-4343-a160-0423a3b6cb31": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Build_Your_Own_Bundle_29637ab0-df6e-4030-a829-0031694474cb.png",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "",
+              "slide_option": "slide",
+              "button_label": "",
+              "button_link": "shopify:\/\/products\/build-your-own-bundle"
+            }
+          },
+          "38d15aef-8780-4894-b7e9-d7240760a168": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Frosty_Fruit_FAQ.png",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "",
+              "slide_option": "slide",
+              "button_label": "",
+              "button_link": "shopify:\/\/pages\/faqs"
+            }
+          }
+        },
+        "block_order": [
+          "1596464817878",
+          "89b03dd7-8036-4112-a447-a3995fb2a89a",
+          "4119444a-09b6-49a1-bce1-7910ec253974",
+          "1603121509888",
+          "435a7718-c952-4343-a160-0423a3b6cb31",
+          "38d15aef-8780-4894-b7e9-d7240760a168"
+        ],
+        "settings": {
+          "slideshow_height": "adapt",
+          "text_size": "medium",
+          "text_alignment": "center center",
+          "show_overlay": false,
+          "autorotate": true,
+          "autorotate_speed": 7
+        }
+      },
+      "featured-collections": {
+        "type": "collection",
+        "settings": {
+          "title": "100% Juice Slushy Concentrate",
+          "collection": "slushy-flavors",
+          "grid": 4,
+          "rows": 1,
+          "show_vendor": false,
+          "show_view_all": true
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "link_list": {
+            "type": "link_list",
+            "settings": {
+              "title": "Learn More",
+              "menu": "footer-about"
+            }
+          },
+          "link_list-1": {
+            "type": "link_list",
+            "settings": {
+              "title": "Quick links",
+              "menu": "footer"
+            }
+          },
+          "e93e64af-8502-41af-9175-7ad4f15b083c": {
+            "type": "html_content",
+            "settings": {
+              "html_area": "<div>\n<h4>Contact Us!<\/h4>\n<ul class=\"footer-contact-list\">\n    <li class=\"footer-contact-items\">\n<i class=\"far fa-snowflake\" aria-hidden=\"true\"><\/i> Frosty Fruit<\/li>\n    <li class=\"footer-contact-items\">\n<i class=\"fas fa-phone\" aria-hidden=\"true\"><\/i> 800-806-8959<\/li>\n    <li class=\"footer-contact-items\">\n<i class=\"fas fa-envelope\" aria-hidden=\"true\"><\/i><a href=\"mailto:info@frostyfruit.net\" title=\"mailto:info@frostyfruit.net\" aria-describedby=\"a11y-external-message\"> info@frostyfruit.net<\/a>\n<\/li>\n    <li class=\"footer-contact-items\">\n<i class=\"fa-map-marker-alt fas\" aria-hidden=\"true\"><\/i> 660 OFC Cunningham Rd<\/li>\n    <li class=\"footer-contact-items\">\n<i class=\"fa-map-marker-alt fas\" aria-hidden=\"true\" style=\"color: #efefef;\"><\/i> Gettysburg, PA 17325<\/li>\n<\/ul>\n<\/div>"
+            }
+          },
+          "newsletter": {
+            "type": "newsletter",
+            "settings": {
+              "title": "Newsletter"
+            }
+          }
+        },
+        "block_order": [
+          "link_list",
+          "link_list-1",
+          "e93e64af-8502-41af-9175-7ad4f15b083c",
+          "newsletter"
+        ],
+        "settings": {
+          "show_payment_icons": true,
+          "color_footer_bg": "#efefef",
+          "color_footer_text": "#3d4246"
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical",
+          "grid": 4
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "layout": "grid",
+          "grid": 4,
+          "rows": 5,
+          "show_collection_image": true,
+          "show_vendor": false,
+          "sort_enable": true,
+          "tags_enable": true
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "image_size": "small",
+          "show_quantity_selector": true,
+          "show_variant_labels": true,
+          "show_vendor": false,
+          "enable_zoom": true,
+          "enable_payment_button": false,
+          "show_share_buttons": true
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_notes_enable": true
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "layout": "list",
+          "blog_show_author": false,
+          "blog_show_date": false
+        }
+      },
+      "article-template": {
+        "type": "article-template",
+        "settings": {
+          "blog_show_author": false,
+          "blog_show_date": true,
+          "show_share_buttons": true
+        }
+      },
+      "1566420421858": {
+        "type": "feature-row",
+        "settings": {
+          "image": "shopify:\/\/shop_images\/2-Million-Raised-in-2022.png",
+          "layout": "left",
+          "title": "",
+          "text": "<p>In 2022, we helped schools raise over $2,000,000 for their Students and Programs!<\/p><p><\/p><p>This year, we are looking to help more schools raise funds that truly make a difference, all while being a healthy, fun addition to your school. <\/p><p><\/p><p>Frosty Fruit Fundraiser Highlights:<br\/>• Average School Raised over $5,000 in Profit Last Year<br\/>• Meets USDA Smart Snack Guidelines<br\/>• Large Variety of Flavors<br\/>• Support to ensure your fundraiser is a success!<\/p><p><\/p><p>If you would like a free fundraiser consultation click the button below. <br\/> <\/p>",
+          "button_label": "Bring Frosty Fruit to Your School!",
+          "button_link": "shopify:\/\/pages\/frosty-fruit-fundraising-consultation"
+        }
+      },
+      "1566581796738": {
+        "type": "quotes",
+        "blocks": {
+          "1566581796738-0": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>Frosty Fruit has a great fundraising program. I have been using them in high school for over 5 years now and have had great success. The product meets all school nutritional guidelines and students love them! Awesome customer service. <br\/><br\/>Rob and Sam have been great to work with and accommodate all of my needs. Highly recommend!!!<\/p>",
+              "author": "Carl H. Wausau, WI"
+            }
+          },
+          "1566581796738-1": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>From the quality of product to the customer service, Frosty Fruit has gone above and beyond to help make our experience amazing. Our high school students love Frosty Fruit and it is by far our most profitable item sold in our school store! It doesn't matter if it is warm or cold weather, our students purchase Frosty Fruit slushies all school year.<\/p>",
+              "author": "Jenna N. Danielsville, GA"
+            }
+          },
+          "1566581796738-2": {
+            "type": "quote",
+            "settings": {
+              "quote": "<p>As an Athletic Director this is by far one of the best fundraisers I have found. I have been selling Frosty Fruit slushies for 7 years now and will never do any other form for fundraising again. The company is first class and great to work with.<br\/>If you are looking for a simple, one person fundraiser I highly recommend getting a Frosty Fruit machine.<\/p>",
+              "author": "Rich O. Indianapolis, IN"
+            }
+          }
+        },
+        "block_order": [
+          "1566581796738-0",
+          "1566581796738-1",
+          "1566581796738-2"
+        ],
+        "settings": {
+          "title": "What Schools Have To Say..."
+        }
+      },
+      "1593453323881": {
+        "type": "custom-content",
+        "blocks": {
+          "1593453346573": {
+            "type": "html",
+            "settings": {
+              "code": "<div class=\"slush-machine-logos-header\">Featured Collections<\/div>\n<div class=\"grid\">\n    <div class=\"grid__item one-half medium-up--one-quarter slush-machine-logos\">\n        <a href=\"https:\/\/frosty-fruit.myshopify.com\/collections\/slushy-flavors\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0818\/5893\/files\/Juice_Flavors.png?v=1640893283\" alt=\"100% Juice Slushy Flavors\"><\/a>\n        <span>100% Fruit Juice<\/span>\n    <\/div>\n    <div class=\"grid__item one-half medium-up--one-quarter slush-machine-logos\">\n        <a href=\"https:\/\/frosty-fruit.myshopify.com\/collections\/cups-and-accessories\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0818\/5893\/files\/Cups.png?v=1640893282\" alt=\"Cups &amp; Accessories!\"><\/a>\n        <span>Cups &amp; Accessories<\/span>\n    <\/div>\n    <div class=\"grid__item one-half medium-up--one-quarter slush-machine-logos\">\n        <a href=\"https:\/\/frosty-fruit.myshopify.com\/collections\/starter-kits\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0818\/5893\/files\/Starter_Kits.png?v=1640893282\" alt=\"Frosty Fruit Fundraiser Starter Kits\"><\/a>\n        <span>Fundraiser Starter Kits<\/span>\n    <\/div>\n    <div class=\"grid__item one-half medium-up--one-quarter slush-machine-logos\">\n        <a href=\"https:\/\/frosty-fruit.myshopify.com\/collections\/equipment\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0818\/5893\/files\/Equipment.png?v=1640893282\" alt=\"Slushy Machines\"><\/a>\n        <span>Slushy Machines<\/span>\n    <\/div>\n<\/div>",
+              "width": "100%"
+            }
+          }
+        },
+        "block_order": [
+          "1593453346573"
+        ],
+        "settings": {
+          "title": "",
+          "full_width": false
+        }
+      },
+      "160529705511f68271": {
+        "type": "custom-content",
+        "blocks": {
+          "035105b0-56a5-48da-873e-64756c186961": {
+            "type": "html",
+            "settings": {
+              "code": "<div class=\"slush-machine-logos-header\">Slush Machines for Any Use!<\/div>\n<div class=\"grid\">\n    <div class=\"grid__item one-half medium-up--one-sixth slush-machine-logos\">\n        <a href=\"https:\/\/frosty-fruit.myshopify.com\/pages\/slush-machine-for-school-fundraiser\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0818\/5893\/files\/Slushy_Machine_for_Schools.png?v=1640022582\" alt=\"Slush Machine for use at Schools!\"><\/a>\n        <span>Schools<\/span>\n    <\/div>\n    <div class=\"grid__item one-half medium-up--one-sixth slush-machine-logos\">\n        <a href=\"https:\/\/frosty-fruit.myshopify.com\/pages\/slush-machine-for-camp-fundraiser\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0818\/5893\/files\/Slushy_Machine_for_Camps.png?v=1640022638\" alt=\"Slush Machines for use at Camps!\"><\/a>\n        <span>Camps<\/span>\n    <\/div>\n    <div class=\"grid__item one-half medium-up--one-sixth slush-machine-logos\">\n        <a href=\"https:\/\/frosty-fruit.myshopify.com\/pages\/slush-machine-for-restaurants\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0818\/5893\/files\/Slushy_Machine_for_Restaurants.png?v=1640022638\" alt=\"Slush Machines for Restaurants!\"><\/a>\n        <span>Restaurants<\/span>\n    <\/div>\n    <div class=\"grid__item one-half medium-up--one-sixth slush-machine-logos\">\n        <a href=\"https:\/\/frosty-fruit.myshopify.com\/pages\/slush-machine-for-business\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0818\/5893\/files\/Slushy_Machine_for_Business.png?v=1640022638\" alt=\"Slush Machines for Business use!\"><\/a>\n        <span>Businesses<\/span>\n    <\/div>\n    <div class=\"grid__item one-half medium-up--one-sixth slush-machine-logos\">\n        <a href=\"https:\/\/frosty-fruit.myshopify.com\/pages\/slush-machine-for-convenience-stores\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0818\/5893\/files\/Slushy_Machine_for_Convenience_Stores.png?v=1640022638\" alt=\"Slush Machines for use at Convenience Stores!\"><\/a>\n        <span>Convenience<br>Stores<\/span>\n    <\/div>\n    <div class=\"grid__item one-half medium-up--one-sixth slush-machine-logos\">\n        <a href=\"https:\/\/frostyfruit.net\/pages\/slush-machine-for-home-use\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0818\/5893\/files\/Slushy_Machine_for_Home_Use.png?v=1640022638\" alt=\"Slush Machines for at home use!\"><\/a>\n        <span>Home Use<\/span>\n    <\/div>\n<\/div>",
+              "width": "100%"
+            }
+          }
+        },
+        "block_order": [
+          "035105b0-56a5-48da-873e-64756c186961"
+        ],
+        "settings": {
+          "title": "",
+          "full_width": false
+        }
+      },
+      "1638803504df045db5": {
+        "type": "slideshow",
+        "blocks": {
+          "46f52261-bd14-457d-add3-57da25595399": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Orange_Creamsicle.png",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "",
+              "slide_option": "slide",
+              "button_label": "",
+              "button_link": "shopify:\/\/products\/orange-creamsicle-slushy"
+            }
+          },
+          "6bd0ffdf-56f2-4110-9b9c-6b13caeae6a1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Slushy_Flavors_fe429b6f-7e76-4a1e-8f5f-c57c905c1a4a.png",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "",
+              "slide_option": "slide",
+              "button_label": "",
+              "button_link": "shopify:\/\/collections\/slushy-flavors"
+            }
+          },
+          "1638803504df045db5-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/12_Cases_Ship_Free.png",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "",
+              "slide_option": "slide",
+              "button_label": "",
+              "button_link": "https:\/\/frostyfruit.net\/discount\/SHIPFREE12CASES?redirect=\/collections\/slushy-flavors"
+            }
+          },
+          "9a2a7f39-8444-4a4d-a0bd-92637efdbc00": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Build_Your_Own_Bundle_-_Mobile_a0c22503-2530-4a2e-b5a1-6e50e5b8ea30.png",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "",
+              "slide_option": "slide",
+              "button_label": "",
+              "button_link": "shopify:\/\/products\/build-your-own-bundle"
+            }
+          },
+          "1638803504df045db5-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Frosty_Fruit_FAQ_-_Mobile_7a946d31-53f2-4789-b4d8-6bedd31045d0.png",
+              "alignment": "center center",
+              "slide_title": "",
+              "subheading": "",
+              "slide_option": "slide",
+              "button_label": "",
+              "button_link": "shopify:\/\/pages\/faqs"
+            }
+          }
+        },
+        "block_order": [
+          "46f52261-bd14-457d-add3-57da25595399",
+          "6bd0ffdf-56f2-4110-9b9c-6b13caeae6a1",
+          "1638803504df045db5-1",
+          "9a2a7f39-8444-4a4d-a0bd-92637efdbc00",
+          "1638803504df045db5-0"
+        ],
+        "settings": {
+          "slideshow_height": "adapt",
+          "text_size": "medium",
+          "text_alignment": "center center",
+          "show_overlay": false,
+          "autorotate": false,
+          "autorotate_speed": 5
+        }
+      },
+      "1639427607930ef31e": {
+        "type": "custom-content",
+        "blocks": {
+          "8bd8272a-ed70-46d9-9761-3ea045d165ba": {
+            "type": "html",
+            "disabled": true,
+            "settings": {
+              "code": "<div class=\"free-shipping-banner\">\n    <a class=\"free-shipping-banner-desktop\" href=\"https:\/\/frostyfruit.net\/discount\/SHIPFREE8?redirect=\/collections\/slushy-flavors\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0818\/5893\/files\/Free_shipping_banner-desktop.png?v=1641504212\" alt=\"Free shipping on 8 or more case orders. Use code: SHIPFREE8 at checkout.\"><\/a>\n    <a class=\"free-shipping-banner-mobile\" href=\"https:\/\/frostyfruit.net\/discount\/SHIPFREE8?redirect=\/collections\/slushy-flavors\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0818\/5893\/files\/Ship_Free_8_Banner_Mobile.png?v=1641504212\" alt=\"Free shipping on 8 or more case orders. Use code: SHIPFREE8 at checkout.\"><\/a>\n<\/div>",
+              "width": "100%"
+            }
+          },
+          "ec6355bc-5dac-4216-8619-7e0a0d3f77c7": {
+            "type": "html",
+            "settings": {
+              "code": "<div class=\"free-shipping-banner\">\n    <a class=\"free-shipping-banner-desktop\" href=\"https:\/\/frostyfruit.net\/discount\/SHIPFREE12CASES?redirect=\/collections\/slushy-flavors\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0818\/5893\/files\/Free_shipping_banner.png?v=1639075403\" alt=\"Free shipping on 12 or more case orders. Use code: SHIPFREE12CASES at checkout.\"><\/a>\n    <a class=\"free-shipping-banner-mobile\" href=\"https:\/\/frostyfruit.net\/discount\/SHIPFREE12CASES?redirect=\/collections\/slushy-flavors\"><img src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0818\/5893\/files\/Free_shipping_banner-mobile.png?v=1640899082\" alt=\"Free shipping on 12 or more case orders. Use code: SHIPFREE12CASES at checkout.\"><\/a>\n<\/div>",
+              "width": "100%"
+            }
+          }
+        },
+        "block_order": [
+          "8bd8272a-ed70-46d9-9761-3ea045d165ba",
+          "ec6355bc-5dac-4216-8619-7e0a0d3f77c7"
+        ],
+        "settings": {
+          "title": "",
+          "full_width": true
+        }
+      },
+      "1640620950f767d141": {
+        "type": "newsletter",
+        "settings": {
+          "section_title": "Don't Miss Out on Savings!",
+          "subheading": "<p>Stay up to date on any promotions we have going on, by subscribing to our newsletter!<\/p>",
+          "show_background": false
+        }
+      }
+    },
+    "content_for_index": [
+      "slideshow",
+      "1638803504df045db5",
+      "1566420421858",
+      "1593453323881",
+      "1566581796738",
+      "featured-collections",
+      "1639427607930ef31e",
+      "160529705511f68271",
+      "1640620950f767d141"
+    ],
+    "blocks": {
+      "15683396631634586217": {
+        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "disabled": true,
+        "settings": {
+          "button_color": "#0c7bbb",
+          "button_icon": "chat_bubble",
+          "button_text": "chat_with_us",
+          "button_horizontal_position": "bottom_right",
+          "button_vertical_position": "lowest",
+          "greeting_message": "👋 Hi there! Please let us know if you have any questions or need any assistance.\n\n🕔Our office hours are 9-5 EST Monday - Friday. If you are chatting outside of that timeframe, we will do our best to get back to you as soon as possible. "
+        }
+      },
+      "14060646107696862457": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
+  "presets": {
+    "Default": {
+      "color_text": "#3d4246",
+      "color_body_text": "#69727b",
+      "color_sale_text": "#557B97",
+      "color_borders": "#e8e9eb",
+      "color_button": "#557B97",
+      "color_button_text": "#fff",
+      "color_small_button_text_border": "#3d4246",
+      "color_text_field": "#fff",
+      "color_text_field_text": "#000",
+      "color_text_field_border": "#949494",
+      "color_image_overlay_text": "#fff",
+      "color_image_overlay": "#3d4246",
+      "image_overlay_opacity": 40,
+      "color_body_bg": "#fff",
+      "type_header_font": "work_sans_n6",
+      "type_header_base_size": 26,
+      "type_base_font": "work_sans_n4",
+      "type_base_size": 16,
+      "type_bold_product_titles": false,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+          }
+        },
+        "hero": {
+          "type": "hero",
+          "settings": {
+            "text_size": "large"
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "slideshow-1": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "slideshow-1"
+          ],
+          "settings": {
+          }
+        },
+        "featured-collections": {
+          "type": "collection",
+          "settings": {
+            "collection": "frontpage"
+          }
+        },
+        "feature-row": {
+          "type": "feature-row",
+          "settings": {
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "link_list": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "link_list-1": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+              }
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "link_list",
+            "link_list-1",
+            "text",
+            "newsletter"
+          ],
+          "settings": {
+          }
+        }
+      },
+      "content_for_index": [
+        "hero",
+        "featured-collections",
+        "feature-row",
+        "slideshow"
+      ]
+    },
+    "Light": {
+      "color_text": "#162950",
+      "color_body_text": "#6d6d6d",
+      "color_sale_text": "#DA2F0C",
+      "color_borders": "#e4e4e4",
+      "color_button": "#DA2F0C",
+      "color_button_text": "#ffffff",
+      "color_small_button_text_border": "#162950",
+      "color_text_field": "#ffffff",
+      "color_text_field_text": "#162950",
+      "color_text_field_border": "#909090",
+      "color_image_overlay_text": "#ffffff",
+      "color_image_overlay": "#3d3d3d",
+      "image_overlay_opacity": 40,
+      "color_body_bg": "#f8f8f8",
+      "type_header_font": "muli_n6",
+      "type_header_base_size": 26,
+      "type_base_font": "muli_n4",
+      "type_base_size": 18,
+      "type_bold_product_titles": true,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "social_twitter_link": "",
+      "social_facebook_link": "",
+      "social_pinterest_link": "",
+      "social_instagram_link": "",
+      "social_tumblr_link": "",
+      "social_snapchat_link": "",
+      "social_youtube_link": "",
+      "social_vimeo_link": "",
+      "favicon": "",
+      "checkout_header_image": "",
+      "checkout_logo_image": "",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "small",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#e8f3f6",
+      "checkout_heading_font": "Roboto",
+      "checkout_body_font": "Source Sans Pro",
+      "checkout_accent_color": "#1990c6",
+      "checkout_button_color": "#23314e",
+      "checkout_error_color": "#ff6d6d",
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "align_logo": "left",
+            "logo": "",
+            "logo_max_width": 135,
+            "main_linklist": "main-menu",
+            "message": true,
+            "color_bg": "#162950",
+            "color_text": "#ffffff"
+          }
+        },
+        "hero": {
+          "type": "hero",
+          "settings": {
+            "alignment": "center",
+            "hero_size": "x-large",
+            "text_size": "large"
+          }
+        },
+        "slideshow": {
+          "type": "slideshow",
+          "blocks": {
+            "slideshow-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center center"
+              }
+            },
+            "1492095993817": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "alignment": "center"
+              }
+            }
+          },
+          "block_order": [
+            "slideshow-0",
+            "1492095993817"
+          ],
+          "settings": {
+            "slideshow_height": "medium",
+            "text_size": "medium",
+            "autorotate": false,
+            "autorotate_speed": 5
+          }
+        },
+        "featured-collections": {
+          "type": "collection",
+          "settings": {
+            "grid": 3,
+            "rows": 1,
+            "show_vendor": true,
+            "show_view_all": true
+          }
+        },
+        "product-template": {
+          "type": "product-template",
+          "settings": {
+            "image_size": "medium",
+            "show_quantity_selector": false,
+            "show_variant_labels": true,
+            "show_vendor": false,
+            "enable_zoom": true,
+            "show_share_buttons": true
+          }
+        },
+        "collection-template": {
+          "type": "collection-template",
+          "settings": {
+            "layout": "grid",
+            "grid": 2,
+            "rows": 2,
+            "show_collection_image": true,
+            "show_vendor": false,
+            "sort_enable": true,
+            "tags_enable": true
+          }
+        },
+        "1492033809691": {
+          "type": "map",
+          "settings": {
+          }
+        },
+        "1492033877875": {
+          "type": "quotes",
+          "blocks": {
+            "1492033877875-0": {
+              "type": "quote",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1492033877875-0"
+          ],
+          "settings": {
+          }
+        },
+        "1492033924902": {
+          "type": "custom-content",
+          "blocks": {
+            "1492033924902-0": {
+              "type": "text",
+              "settings": {
+                "width": "100%",
+                "alignment": "center",
+                "align_text": "center"
+              }
+            }
+          },
+          "block_order": [
+            "1492033924902-0"
+          ],
+          "settings": {
+            "title": ""
+          }
+        },
+        "1492096252560": {
+          "type": "collection-list",
+          "blocks": {
+            "1492096252560-0": {
+              "type": "featured_collection",
+              "settings": {
+              }
+            },
+            "1492096252560-1": {
+              "type": "featured_collection",
+              "settings": {
+              }
+            },
+            "1492096252560-2": {
+              "type": "featured_collection",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1492096252560-0",
+            "1492096252560-1",
+            "1492096252560-2"
+          ],
+          "settings": {
+            "grid": 3
+          }
+        },
+        "blog-template": {
+          "type": "blog-template",
+          "settings": {
+            "layout": "grid",
+            "blog_show_author": true,
+            "blog_show_date": false
+          }
+        },
+        "article-template": {
+          "type": "article-template",
+          "settings": {
+            "blog_show_author": true,
+            "blog_show_date": true,
+            "show_share_buttons": true
+          }
+        },
+        "cart-template": {
+          "type": "cart-template",
+          "settings": {
+            "cart_notes_enable": false
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "link_list": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "link_list-1": {
+              "type": "link_list",
+              "settings": {
+              }
+            },
+            "text": {
+              "type": "text",
+              "settings": {
+              }
+            },
+            "newsletter": {
+              "type": "newsletter",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "link_list",
+            "link_list-1",
+            "text",
+            "newsletter"
+          ],
+          "settings": {
+          }
+        }
+      },
+      "content_for_index": [
+        "hero",
+        "featured-collections",
+        "slideshow",
+        "1492033924902",
+        "1492096252560",
+        "1492033877875",
+        "1492033809691"
+      ]
+    }
+  }
+}
